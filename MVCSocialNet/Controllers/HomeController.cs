@@ -31,7 +31,7 @@ namespace MVCSocialNet.Controllers
 
         public IActionResult Create()
         {
-            return Content("Dam");
+            return Content("Dami");
         }
     }
 }
