@@ -32,7 +32,7 @@ namespace MVCSocialNet.Controllers
         public IActionResult Create()
         {
             string b = "aa";
-            return Content($"Damia {b}");
+            return Content($"Damia {b} + 1");
         }
     }
 }
